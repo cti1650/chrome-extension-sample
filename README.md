@@ -1,8 +1,8 @@
 # chrome-extension-sample
 
-## Chrome拡張機能
+## Chrome拡張機能  
 
-<a href="chrome://extensions/">設定画面</a>
+`chrome://extensions/`
 
 ## 参考ページ
 
