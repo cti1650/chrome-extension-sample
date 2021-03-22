@@ -2,7 +2,7 @@
 
 ## Chrome拡張機能
 
-- <a href="chrome://extensions/">設定画面</a>
+<a href="chrome://extensions/">設定画面</a>
 
 ## 参考ページ
 
