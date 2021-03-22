@@ -1,0 +1,20 @@
+{
+  "name": "TestExtension",
+  "version": "1.0.1",
+  "permissions":["tabs","activeTab"],
+  "manifest_version": 2,
+  "description": "Test Chrome Extension",
+  "content_scripts": [{
+    "matches": ["http://*/*"],
+    "js": [
+      "content-script.js"
+    ]
+  }],
+  "background":  {
+    "scripts": ["background.js"],
+    "persistant": false
+  },
+  "browser_action": {
+      "name": "Test"
+  }
+}
