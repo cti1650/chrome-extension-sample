@@ -28,12 +28,12 @@
 
 - [ovice-chrome-extension](https://github.com/cti1650/ovice-chrome-extension)  
 
+- [qiita_shortcut_extension](https://github.com/cti1650/qiita_shortcut_extension)  
+
 
 ### その他
 
 - [chrome_extension_images_converter](https://github.com/cti1650/chrome_extension_images_converter)  
-
-- [qiita_shortcut_extension](https://github.com/cti1650/qiita_shortcut_extension)  
 
 
 ## 参考ページ
